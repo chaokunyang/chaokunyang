@@ -10,4 +10,4 @@
 - Currrently I'm focusing on XLA/TVM engine, multimodal computing and inferrence Framework
 - 📫 How to reach me:
   - email: shawn.ck.yang@gmail.com
-  - wecaht: laryli25  
+  - wechat: laryli25  
