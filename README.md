@@ -5,8 +5,8 @@
 - I'm the PMC maintainer of [Mars](https://github.com/mars-project/mars): a distributed scientific computing framework.
 - I'm experienced in :
   - distributed frameworks: Spark/Flink/Hadoop/Ray/Dask/Mars/TensorFlow
-  - computing pattern: streaming/batch computing, tensor computation, online learning, batch inferrence.
-  - computing engine: Arrow/Pandas/Numpy/Polars/Jax/XLA.
+  - computing patterns: streaming/batch computing, tensor computation, online learning, batch inferrence.
+  - computing engines: Arrow/Pandas/Numpy/Polars/Jax/XLA.
 - Currrently I'm focusing on XLA/TVM engine, multimodal computing and inferrence Framework
 - 📫 How to reach me:
   - email: shawn.ck.yang@gmail.com
