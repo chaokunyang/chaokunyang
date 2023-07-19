@@ -10,5 +10,6 @@
 - Currrently I'm focusing on XLA/TVM engine, multimodal computing and inferrence Framework
 - 📫 How to reach me:
   - email: shawn.ck.yang@gmail.com
+  - Twitter: [chaokunyang](https://twitter.com/chaokunyang)
   - wechat: laryli25
   - zhihu: [Shawn](https://www.zhihu.com/people/yang-zhao-kun-5)
