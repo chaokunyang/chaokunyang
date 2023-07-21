@@ -2,7 +2,7 @@
 
 - I’m currently working at ant group inc.
 - I’m the author of [Fury](https://github.com/alipay/fury): A blazing fast multi-language serialization framework powered by jit and zero-copy.
-- I'm the PMC of [Mars](https://github.com/mars-project/mars): a distributed scientific computing framework.
+- I'm the PMC member of [Mars](https://github.com/mars-project/mars): a distributed scientific computing framework.
 - I'm experienced at:
   - distributed frameworks: Spark/Flink/Hadoop/Ray/Dask/Mars/TensorFlow
   - computing patterns: streaming/batch computing, tensor computation, online learning, batch inferrence.
