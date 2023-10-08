@@ -10,4 +10,4 @@
   - email: shawn.ck.yang@gmail.com
   - Twitter: [chaokunyang](https://twitter.com/chaokunyang)
   - wechat: laryli25
-  - zhihu: [Shawn](https://www.zhihu.com/people/yang-zhao-kun-5)
+  - zhihu: [Shawn](https://www.zhihu.com/people/chaokunyang)
