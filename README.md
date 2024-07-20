@@ -5,8 +5,8 @@
   - distributed frameworks: Spark/Flink/Hadoop/Ray/Dask/Mars/TensorFlow
   - computing patterns: streaming/batch computing, tensor computation, online learning, batch inferrence.
   - computing engines: Arrow/Pandas/Numpy/Polars/Jax/XLA.
-- Currrently I'm focusing on XLA/TVM/TensorRT/Media engine, multimodal computing and inferrence Framework
-- 📫 How to reach me:
+- Currrently I'm focusing on XLA/TVM/TensorRT/Media engine, multimodal computing and inferrence Framework.
+- 📫 I'm open for opportunities, reach me by:
   - email: shawn.ck.yang@gmail.com
   - Twitter: [chaokunyang](https://twitter.com/chaokunyang)
   - wechat: laryli25
