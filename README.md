@@ -6,7 +6,7 @@
   - computing patterns: streaming/batch computing, tensor computation, online learning, batch inferrence.
   - computing engines: Arrow/Pandas/Numpy/Polars/Jax/XLA.
 - Currrently I'm focusing on XLA/TVM/TensorRT/Media engine, multimodal computing and inferrence Framework.
-- 📫 I'm open for opportunities, reach me by:
+- 📫 I'm open for opportunities, feel free to reach me by:
   - email: shawn.ck.yang@gmail.com
   - Twitter: [chaokunyang](https://twitter.com/chaokunyang)
   - wechat: laryli25
