@@ -9,5 +9,6 @@
 - 📫 I'm open for opportunities, feel free to reach me by:
   - email: shawn.ck.yang@gmail.com
   - Twitter: [chaokunyang](https://twitter.com/chaokunyang)
+  - linkedin: www.linkedin.com/in/chaokunyang
   - wechat: laryli25
   - zhihu: [chaokunyang](https://www.zhihu.com/people/chaokunyang)
