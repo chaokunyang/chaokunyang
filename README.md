@@ -1,5 +1,5 @@
 
-- I’m the author of [Apache Fury(incubating)](https://github.com/apache/incubator-fury): A blazingly fast multi-language serialization framework powered by JIT and zero-copy. I created Fury in 2019.07, open sourced it in 2023.07, donated it to ASF in 2023.12.
+- I’m the author of [Apache Fury](https://github.com/apache/incubator-fury): A blazingly fast multi-language serialization framework powered by JIT and zero-copy. I created Fury in 2019.07, open sourced it in 2023.07, donated it to ASF in 2023.12.
 - I'm the PMC member of [Mars](https://github.com/mars-project/mars): a distributed scientific computing framework.
 - I'm experienced at:
   - distributed frameworks: Spark/Flink/Hadoop/Ray/Dask/Mars/TensorFlow
