@@ -1,6 +1,6 @@
 - I'm the author of [Awex](https://github.com/inclusionAI/asystem-awex): a high-performance RL training-inference weight synchronization framework, designed to enable second-level parameter updates for trillion‑scale model from training to inference in RL workflows.
 - I’m the author of [Apache Fory(Fury)](https://github.com/apache/fory): A blazingly fast multi-language serialization framework powered by JIT and zero-copy. I created Fory in 2019.07, open sourced it in 2023.07, donated it to ASF in 2023.12.(Fury was renamed to Fory in 2025.6)
-- I'm the team leader of multi-media and multi-modal processing team at antgroup between 2023.9~2025.5.
+- I'm the team leader of multi-modal and multi-media processing team at antgroup between 2023.9~2025.5.
 - I'm the PMC member of [Mars](https://github.com/mars-project/mars): a distributed scientific computing framework.
 - I'm experienced at:
   - distributed frameworks: Spark/Flink/Hadoop/Ray/Dask/Mars/TensorFlow
