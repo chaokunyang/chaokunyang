@@ -1,5 +1,5 @@
 - Author of [Awex](https://github.com/inclusionAI/asystem-awex): a high-performance RL training-inference weight synchronization framework, designed to enable second-level parameter updates for trillion‑scale model from training to inference in RL workflows.
-- Author of [Apache Fory](https://github.com/apache/fory): A blazingly fast multi-language serialization framework powered by JIT and zero-copy. I created Fory in 2019.07, open sourced it in 2023.07, donated it to ASF in 2023.12.(Fory as named Fury before 2025.6)
+- Author of [Apache Fory](https://github.com/apache/fory): A blazingly fast multi-language serialization framework powered by JIT and zero-copy. I created Fory in 2019.07, open sourced it in 2023.07, donated it to ASF in 2023.12.(Fory is named as Fury before 2025.6)
 - Team leader of multi-modal and multi-media processing team at antgroup between 2023.9~2025.5.
 - PMC member of [Mars](https://github.com/mars-project/mars): a distributed scientific computing framework.
 - I'm experienced at:
